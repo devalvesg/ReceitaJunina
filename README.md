@@ -5,3 +5,5 @@
 
 <h2>Tecnologias Utilizadas:</h2>
 <h3>Foi utilizado HTML, CSS e Javascript, utilizando DOM para controlar o número de porções e demonstrar um alert caso o número seja inválido!</h3>
+
+<h4>link para o projeto: https://receita-junina-git-main-devalvesg.vercel.app/</h4>
